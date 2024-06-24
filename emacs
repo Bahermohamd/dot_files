@@ -51,3 +51,9 @@
 
 
 (add-to-list 'default-frame-alist '(fullscreen . maximized))
+
+
+
+(setq catppuccin-flavor 'mocha)
+(catppuccin-reload)
+
