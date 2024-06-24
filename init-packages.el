@@ -9,7 +9,7 @@
 
 ; list the packages you want
 (setq package-list
-      '( yasnippet windresize auto-complete auto-complete-c-headers ac-c-headers smex color-theme-sanityinc-solarized cyberpunk-theme))
+      '( yasnippet catppuccin-theme auto-complete auto-complete-c-headers ac-c-headers smex color-theme-sanityinc-solarized cyberpunk-theme))
 
 
 ; activate all the packages
